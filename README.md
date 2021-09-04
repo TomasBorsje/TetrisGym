@@ -3,7 +3,7 @@
 
 A training environment for machine learning agents to learn Tetris built with Unity & Unity's ml-agents package.
  
-This project also includes a rudimentary machine learning agent implementation & an .onnx file of the results of training this agent.
+This project also includes a rudimentary machine learning agent implementation & an .onnx file of the results of its training.
 
 ## Configuration
 
